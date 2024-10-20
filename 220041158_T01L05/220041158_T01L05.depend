@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1727678528 source:c:\users\limassou haman bello\desktop\220041158-cse-4302\lab_5\220041158_t01l05\main.cpp
+	"head.h"
+
+1727793579 c:\users\limassou haman bello\desktop\220041158-cse-4302\lab_5\220041158_t01l05\head.h
+	<iostream>
+	<string>
+	<algorithm>
+	<ctime>
+
