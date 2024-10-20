@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1728283171 source:c:\users\limassou haman bello\desktop\220041158-cse-4302\lab_5\220041158_t01_l06_1b\main.cpp
+	"Counter.h"
+
+1728283726 c:\users\limassou haman bello\desktop\220041158-cse-4302\lab_5\220041158_t01_l06_1b\include\counter.h
+	<iostream>
+
+1728280517 source:c:\users\limassou haman bello\desktop\220041158-cse-4302\lab_5\220041158_t01_l06_1b\src\counter.cpp
+
